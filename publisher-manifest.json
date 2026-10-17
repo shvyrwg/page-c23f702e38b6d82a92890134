@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "42bbf310b68b2bd93c2149c7",
+  "owner": "shvyrwg",
+  "repo": "page-c23f702e38b6d82a92890134",
+  "title": "tadm科学基地(tadm)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c23f702e38b6d82a92890134",
+      "a": "tadm科学基地(tadm)",
+      "b": "",
+      "entity": "tadm科学基地(tadm)",
+      "brand": "tadm科学基地(tadm)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d31b4ede641082395554cc452c93bc88ef2f4d8c0031b2dfdc287ca5ba2c0a08",
+      "content": {
+        "keyword1": "tadm科学基地(tadm)",
+        "keyword2": "",
+        "primary_entity": "tadm科学基地(tadm)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "TADM科学基地为科研工作者提供稳定高速的网络加速方案，满足海量数据处理与科研协作需求。基础版、旗舰版、团队版套餐阶梯递进，让每一位研究者都能找到最适合的网络体验。",
+          "AI_DESCRIPTION": "TADM科学基地为科研工作者提供稳定高速的网络加速方案，满足海量数据处理与科研协作需求。基础版、旗舰版、团队版套餐阶梯递进，让每一位研究者都能找到最适合的网络体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n        :root {--wine-red: #9B2C2C;--ivory: #F5F0E1}\n        * {margin: 0;padding: 0;box-sizing: border-box}\n        body {font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.7;color: #333;background-color: var(--ivory)}\n        .hero {height: 100vh;background: linear-gradient(to bottom, var(--wine-red), #E8D9C8);color: white;display: flex;align-items: center;justify-content: center;text-align: center;position: relative;overflow: hidden}\n        .hero::before {content: '';position: absolute;top: 0;left: 0;right: 0;bottom: 0;background: radial-gradient(circle at center, rgba(255,255,255,0.1) 0%, transparent 70%)}\n        .hero-content {position: relative;z-index: 2;max-width: 800px;padding: 0 20px}\n        .hero h1 {font-size: clamp(2.8rem, 8vw, 5.5rem);font-weight: 700;margin-bottom: 20px;letter-spacing: 4px;text-shadow: 0 4px 20px rgba(0,0,0,0.3)}\n        .hero p {font-size: 1.35rem;max-width: 520px;margin: 0 auto;opacity: 0.95}\n        .nav-fixed {position: fixed;bottom: 0;left: 0;right: 0;background: white;border-top: 3px solid var(--wine-red);padding: 12px 0;z-index: 1000;box-shadow: 0 -4px 15px rgba(155,44,44,0.1)}\n        .nav-fixed ul {display: flex;justify-content: space-around;list-style: none;max-width: 800px;margin: 0 auto}\n        .nav-fixed a {color: var(--wine-red);text-decoration: none;font-weight: 500;font-size: 0.95rem;transition: color 0.3s}\n        .nav-fixed a:hover {color: #7A1F1F}\n        main {padding-top: 40px}\n        .intro {max-width: 800px;margin: 0 auto 60px;padding: 0 20px}\n        .intro h2 {font-size: 2rem;margin-bottom: 24px;color: var(--wine-red);border-bottom: 2px solid #E8D9C8;padding-bottom: 12px}\n        .intro p {font-size: 1.15rem;margin-bottom: 28px}\n        .features-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));gap: 24px;max-width: 1000px;margin: 0 auto 60px;padding: 0 20px}\n        .feature-card {background: white;border: 1px solid #E8D9C8;border-radius: 8px;padding: 28px 24px;box-shadow: 0 4px 15px rgba(155,44,44,0.06)}\n        .feature-card h3 {color: var(--wine-red);margin-bottom: 14px;font-size: 1.35rem}\n        .feature-card ul {list-style: none}\n        .feature-card li {padding: 10px 0;position: relative;padding-left: 28px}\n        .feature-card li::before {content: \"▸\";position: absolute;left: 0;color: var(--wine-red)}\n        .plans-section {max-width: 1000px;margin: 0 auto 60px;padding: 0 20px}\n        .plans-section h2 {text-align: center;font-size: 2.2rem;margin-bottom: 40px;color: var(--wine-red)}\n        .plan-container {display: flex;flex-direction: column;gap: 30px}\n        .plan-card {position: relative;background: white;border: 2px solid #E8D9C8;border-radius: 12px;overflow: hidden;transition: transform 0.3s ease, box-shadow 0.3s ease}\n        .plan-card:hover {transform: translateY(-8px);box-shadow: 0 15px 30px rgba(155,44,44,0.12)}\n        .plan-header {background: var(--wine-red);color: white;padding: 14px 24px;font-size: 1.45rem;font-weight: 600}\n        .plan-content {padding: 32px 28px}\n        .plan-price {font-size: 2.4rem;font-weight: 700;color: var(--wine-red);margin: 12px 0 18px}\n        .plan-price .annual {font-size: 1.1rem;font-weight: 400;color: #666}\n        .plan-features {list-style: none}\n        .plan-features li {margin: 14px 0;padding-left: 26px;position: relative}\n        .plan-features li::before {content: \"✓\";position: absolute;left: 0;color: var(--wine-red)}\n        .plan-featured {border: 3px solid var(--wine-red);position: relative}\n        .plan-featured::after {content: \"推荐\";position: absolute;top: 20px;right: -20px;background: var(--wine-red);color: white;padding: 4px 22px;font-size: 0.85rem;transform: rotate(45deg);border-radius: 3px}\n        .faq-section {max-width: 800px;margin: 0 auto;padding: 0 20px}\n        .faq-section h2 {text-align: center;font-size: 2rem;margin-bottom: 40px;color: var(--wine-red)}\n        .faq-group {margin-bottom: 48px}\n        .faq-group h3 {color: var(--wine-red);font-size: 1.35rem;margin-bottom: 20px;padding-bottom: 8px;border-bottom: 1px solid #E8D9C8}\n        .faq-item {background: white;margin-bottom: 16px;border-radius: 8px;overflow: hidden;box-shadow: 0 3px 10px rgba(0,0,0,0.04)}\n        .faq-question {background: #F8F4ED;padding: 18px 24px;font-weight: 600;cursor: pointer;display: flex;align-items: center;gap: 12px}\n        .faq-question::before {content: \"？\";font-size: 1.4rem;color: var(--wine-red)}\n        .faq-answer {padding: 20px 24px;color: #555;border-top: 1px solid #eee}\n        .faq-answer p {margin-bottom: 14px}\n        .faq-answer:last-child {margin-bottom: 0}\n        footer {background: #2A1F1A;color: #E8D9C8;text-align: center;padding: 40px 20px 60px;font-size: 0.95rem}\n        .footer-note {max-width: 600px;margin: 0 auto;opacity: 0.85}\n    </style><div class=\"hero\">\n        <div class=\"hero-content\">\n            <h1>tadm科学基地(tadm) · TADM科学基地</h1>\n            <p>科研计算的网络自由守护者</p>\n        </div>\n    </div>\n\n    <nav class=\"nav-fixed\">\n        <ul>\n            <li><a href=\"#intro\">首页</a></li>\n            <li><a href=\"#plans\">套餐</a></li>\n            <li><a href=\"#faq\">FAQ</a></li>\n        </ul>\n    </nav>\n\n    <main>\n        <section class=\"intro\">\n            <h2>专栏导读</h2>\n            <p>在数字化科研环境中，网络连接的稳定性常常成为科研工作者最头疼的问题之一。作为一名长期关注科技与教育领域的专栏作者，我曾多次在文章中探讨如何让研究工作不再受限于数据限制。今天，我要向大家推荐TADM科学基地。这是一个专为科学人士打造的网络加速平台，通过阶梯式的流量方案，帮助每一位科研工作者在日常数据处理、科研协作以及文献阅读中都能获得顺畅的体验。</p>\n            <p>不同于常见的网络服务宣传，本平台更注重实际使用场景的匹配度。从基础的日常科研到团队级的高并发数据分析，TADM科学基地提供了清晰的梯度选择，让科研人员能够根据项目需求与预算进行逐步升级。</p>\n        </section>\n\n        <section class=\"features-grid\">\n            <div class=\"feature-card\">\n                <h3>流量选择</h3>\n                <ul>\n                    <li>根据科研项目规模灵活调整数据包</li>\n                    <li>支持多终端同时稳定运行</li>\n                    <li>注重科研数据传输的安全性</li>\n                </ul>\n            </div>\n            <div class=\"feature-card\">\n                <h3>节点优化</h3>\n                <ul>\n                    <li>提供多地理位置线路供选择</li>\n                    <li>适用于全球科研协作场景</li>\n                    <li>定期节点更新以保持最佳速度</li>\n                </ul>\n            </div>\n            <div class=\"feature-card\">\n                <h3>服务理念</h3>\n                <ul>\n                    <li>以科研工作者为核心</li>\n                    <li>提供透明的使用指引</li>\n                    <li>注重长期稳定性而非短期表现</li>\n                </ul>\n            </div>\n        </section>\n\n        <section class=\"plans-section\">\n            <h2>阶梯式套餐方案</h2>\n            <div class=\"plan-container\">\n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">基础版</div>\n                    <div class=\"plan-content\">\n                        <div class=\"plan-price\">\n                            ¥15<span class=\"annual\">/月</span><br>\n                            <span class=\"annual\">按年付仅需 ¥150/年</span>\n                        </div>\n                        <ul class=\"plan-features\">\n                            <li>每月100GB高速流量</li>\n                            <li>支持3台设备同时在线</li>\n                            <li>解锁基础流媒体平台</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                    </div>\n                </div>\n\n                <div class=\"plan-card plan-featured\">\n                    <div class=\"plan-header\">旗舰版</div>\n                    <div class=\"plan-content\">\n                        <div class=\"plan-price\">\n                            ¥35<span class=\"annual\">/月</span><br>\n                            <span class=\"annual\">按年付仅需 ¥350/年</span>\n                        </div>\n                        <ul class=\"plan-features\">\n                            <li>每月300GB高速流量</li>\n                            <li>支持5台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC专线游戏与科研加速优化</li>\n                            <li>7×24优先工单支持</li>\n                        </ul>\n                    </div>\n                </div>\n\n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">团队版</div>\n                    <div class=\"plan-content\">\n                        <div class=\"plan-price\">\n                            ¥85<span class=\"annual\">/月</span><br>\n                            <span class=\"annual\">按年付仅需 ¥850/年</span>\n                        </div>\n                        <ul class=\"plan-features\">\n                            <li>每月1000GB高速流量</li>\n                            <li>支持20台设备同时在线</li>\n                            <li>VIP专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                    </div>\n                </div>\n            </div>\n        </section>\n\n        <section class=\"faq-section\">\n            <h2>常见问题解答</h2>\n            \n            <div class=\"faq-group\">\n                <h3>流量与套餐</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">我的流量如何计算？</div>\n                    <div class=\"faq-answer\">\n                        <p>流量按自然月累计计算，超出套餐后将按照平台标准规则进行计费。</p>\n                        <p>建议根据科研项目规模选择对应套餐，以确保持续稳定使用。</p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>设备连接</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">支持多少台设备同时使用？</div>\n                    <div class=\"faq-answer\">\n                        <p>基础版支持3台，旗舰版支持5台，团队版支持20台。</p>\n                        <p>具体以您选择的套餐为准。</p>\n                    </div>\n                </div>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">如何在不同设备上配置？</div>\n                    <div class=\"faq-answer\">\n                        <p>平台会提供详细的配置指南，适用于Windows、macOS、iOS和Android系统。</p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>技术支持</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">遇到连接问题怎么办？</div>\n                    <div class=\"faq-answer\">\n                        <p>优先使用7×24工单通道，专业团队将在工作时间内提供解决方案。</p>\n                        <p>基础套餐可获得基础支持，旗舰及团队版享受更高优先级。</p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>隐私与安全</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">我的科研数据安全吗？</div>\n                    <div class=\"faq-answer\">\n                        <p>平台采用加密传输方式，符合科研数据保护的基本要求。</p>\n                        <p>建议在使用过程中结合本地安全措施。</p>\n                    </div>\n                </div>\n            </div>\n\n            <div class=\"faq-group\">\n                <h3>升级与续费</h3>\n                <div class=\"faq-item\">\n                    <div class=\"faq-question\">如何从基础版升级到旗舰版？</div>\n                    <div class=\"faq-answer\">\n                        <p>登录账户后可通过在线支付完成升级，升级后立即生效。</p>\n                        <p>年度套餐可享受更高性价比。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n    </main>\n\n    <footer>\n        <div class=\"footer-note\">\n            <p>TADM科学基地 致力于为科研工作者提供可靠的网络服务</p>\n            <p>本页面为静态展示，实际使用以平台官方信息为准</p>\n        </div>\n    </footer>",
+          "hash": "1105a13cde4f2a14a4fd20443fa6cd2107cb19bac1e6d03476a7f953bc75b708",
+          "seo": {
+            "title": "TADM科学基地 - 科研计算的网络自由守护者",
+            "keywords": "tadm科学基地, 科研网络加速, 科学计算工具, 高流量VPN, 网络自由科研, 科研工作者网络服务",
+            "description": "TADM科学基地为科研工作者提供稳定高速的网络加速方案，满足海量数据处理与科研协作需求。基础版、旗舰版、团队版套餐阶梯递进，让每一位研究者都能找到最适合的网络体验。"
+          },
+          "provider": "grok",
+          "model": "grok-4.6",
+          "design": {
+            "no": "5337",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "8 酒红配象牙白",
+            "nav": "4 底部固定式文字导航",
+            "card": "4 左侧色条标记",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "4 专栏作者式叙述",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lcemxfb.cn",
+    "host": "p-94ed08689c.lcemxfb.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "3355eb1d6293a0acf4a8e77e5a681f41944230aae756ca767d5694cae631dcd8",
+    "sitemap.xml": "18a289ec2d171364f4659fbde899fdab2cd91531786da631440beb0bc0f45be7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a57581a7ef25b9ac68ba54076ec7279ce5b9ff20d2b59b6a8054af13095b86d8",
+    "robots.txt": "40b91b85ab84b99b1beed677142a79e0d7fcf1dcc0ca341849211fec60ecbe77",
+    "7bef8fc98aac7c7489acf93360f831a6.txt": "515d3e6844ee1a932a655148ce5a05c1d2378706db8770d7f0d14d257a94525f"
+  },
+  "revision": "329a52a38abf1c0e2f8fd38df24d977dc015a01185821f6a3a74db34ff0914d5"
+}
